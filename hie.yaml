@@ -1,0 +1,4 @@
+cradle:
+  cabal:
+    - path: "exe/Main.hs"
+      component: "divisibility-regex:exe:divisibility-regex"
